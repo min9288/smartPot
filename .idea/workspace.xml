@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88b9416c-41c8-431e-8ed4-bc22ee9bb2c3" name="Changes" comment="first commit" />
+    <list default="true" id="88b9416c-41c8-431e-8ed4-bc22ee9bb2c3" name="Changes" comment="추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/smartPot"
+    "last_opened_file_path": "C:/Users/admin/Desktop/smartPot/smartPot"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +44,7 @@
       <updated>1655274893758</updated>
       <workItem from="1655274896102" duration="82000" />
       <workItem from="1655353170382" duration="131000" />
+      <workItem from="1655353326765" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655353252742</created>
@@ -45,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655353252742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="추가">
+      <created>1655353450128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655353450128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="추가" />
   </component>
 </project>
