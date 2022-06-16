@@ -12,6 +12,7 @@ public class SqsController {
     private final SqsMessageSender messageSender;
 
     @PostMapping("/message")
+    // mqtt와 연결할때는 postmapping 지우고 mqtt 신호시 컨트롤러 수신되면 해야됨
     public void sendMessage(@RequestBody String message) {
         messageSender.sendMessage(message);
     }
